@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1521670333 source:c:\users\jeremy\documents\cs\euler\main.cpp
+	<iostream>
+	<fstream>
+
+1521659452 c:\users\jeremy\documents\cs\euler\biginteger.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	"BigInteger.h"
+
+1521659277 c:\users\jeremy\documents\cs\euler\biginteger.h
+	<string>
+
